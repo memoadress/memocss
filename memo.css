@@ -1,0 +1,10 @@
+.note {
+  background: #faf7f2;
+  color: #333;
+  padding: 24px;
+  margin: 20px auto;
+  max-width: 600px;
+  font-family: "M PLUS Rounded 1c", sans-serif;
+  line-height: 1.8;
+  border: 1px solid #ddd;
+}
